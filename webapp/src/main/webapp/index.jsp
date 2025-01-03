@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Hi New Users, pls kindly register below! Thanks</h1>
-    <h1>Testing the complete CI/CD Pipeline</h1>
+    <h1>The complete CI/CD Pipeline, Ta Da Da!</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
